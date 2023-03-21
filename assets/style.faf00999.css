@@ -163,12 +163,12 @@ body {
   opacity: 0;
 }
 .todo-list li .toggle + label {
-  background-image: url(todos/assets/unchecked.24ada560.svg);
+  background-image: url(/assets/unchecked.24ada560.svg);
   background-repeat: no-repeat;
   background-position: center left;
 }
 .todo-list li .toggle:checked + label {
-  background-image: url(todos/assets/checked.0ce1e2d1.svg);
+  background-image: url(/assets/checked.0ce1e2d1.svg);
 }
 .todo-list li label {
   word-break: break-all;
